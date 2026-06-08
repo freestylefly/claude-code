@@ -1,5 +1,6 @@
 # Claude Code
 
+
 Claude Code is Anthropic's official CLI tool for Claude, providing an interactive coding assistant that helps with software engineering tasks through natural language conversations.
 
 ## Overview
